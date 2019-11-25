@@ -29,6 +29,9 @@
     "example",
     "heroku"
   ],
+  "engines": {
+    "node": "12.5.0"
+  },
   "dependencies": {
     "@navvis/indoorviewer": "navvis-indoorviewer-2.4.0.tgz"
   }
